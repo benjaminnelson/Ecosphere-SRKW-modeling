@@ -7,7 +7,7 @@ Repo for Nelson et al. manuscript in Ecosphere
 * "fec_data.csv": Tablular data of births, by year, age and individual
 * "ipm_data_ver_3.csv": Counts of live-captures by stage, by year, from 1962-1977
 * "ipm_model_optim_func_ver_2.r": Primary R script for loading data files and executing JAGS models
-* "ipm_survival_optim.r": Pre-processing R script of survival data
+* "ipm_survival_optim.r": R script for pre-processing the survival data
 * "jags_ipm_optim_ver_2.r": JAGS model code
 * "loo_script.r": R script for model selection criterion
 * "mortality_data.csv": Tablular record of deaths, by age, sex, and year
